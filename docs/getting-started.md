@@ -28,7 +28,9 @@ slug: what-stage-of-baldness
 
 髮量仍舊十分茂盛，只有前額兩側髮線輕微或不明顯的衰退，無需治療。若有禿頭的家族史，則需特別注意掉髮的情況，並在適當的時機接受治療。
 
-![側邊額角的地方輕微後退](https://i2.wp.com/cdn-images-1.medium.com/max/600/1*kFe7bkgjDSpudFLZnCu9zA.jpeg?w=700&ssl=1 "髮際線基本完整" =600x400)
+[1*kFe7bkgjDSpudFLZnCu9zA.jpeg?w=700&ssl=1](https://i2.wp.com/cdn-images-1.medium.com/max/600/1*kFe7bkgjDSpudFLZnCu9zA.jpeg?w=700&ssl=1 "1*kFe7bkgjDSpudFLZnCu9zA.jpeg?w=700&ssl=1")
+
+!\[側邊額角的地方輕微後退\](https://i2.wp.com/cdn-images-1.medium.com/max/600/1*kFe7bkgjDSpudFLZnCu9zA.jpeg?w=700&ssl=1 "髮際線基本完整" =600x400)
 
 ***
 
@@ -38,7 +40,7 @@ slug: what-stage-of-baldness
 
 前額兩側髮線有些微的衰退，此時髮線仍保持在耳朵前方幾公分，亦保有對稱性；另外，頭頂中央前部的髮量也不再茂密，禿頂的初步跡象越來越明顯。
 
-![](https://i1.wp.com/cdn-images-1.medium.com/max/600/1*UVS2qnBl0t7-4frV8B36jA.jpeg?w=700&ssl=1 =600x400)
+!\[\](https://i1.wp.com/cdn-images-1.medium.com/max/600/1*UVS2qnBl0t7-4frV8B36jA.jpeg?w=700&ssl=1 =600x400)
 
 ***
 
@@ -52,7 +54,7 @@ slug: what-stage-of-baldness
 
 此期算是禿頭的最初階段，前額兩側髮線有明顯的衰退，鬢角也會有明顯的掉髮，頭頂亦有輕微禿髮。須掌握此時的黃金治療期，如藥物、生髮水、植髮等等。
 
-![](https://i1.wp.com/cdn-images-1.medium.com/max/600/1*ynf1jzTxGg5SDs2xrmpQNA.jpeg?w=700&ssl=1 =600x400)
+!\[\](https://i1.wp.com/cdn-images-1.medium.com/max/600/1*ynf1jzTxGg5SDs2xrmpQNA.jpeg?w=700&ssl=1 =600x400)
 
 ***
 
@@ -62,7 +64,7 @@ slug: what-stage-of-baldness
 
 前額髮線衰退的情況比第三期更嚴重，頭頂區域也有明顯的禿髮，前額與頂部間只剩下中等密度的頭髮橋樑連接兩側頭髮。
 
-![](https://i0.wp.com/cdn-images-1.medium.com/max/600/1*f-qyG_ERcDrzQGpPR55M6w.jpeg?w=700&ssl=1 =600x400)
+!\[\](https://i0.wp.com/cdn-images-1.medium.com/max/600/1*f-qyG_ERcDrzQGpPR55M6w.jpeg?w=700&ssl=1 =600x400)
 
 ***
 
@@ -72,7 +74,7 @@ slug: what-stage-of-baldness
 
 此期，前額與頂部禿髮仍舊是不同的區域，但兩者之間的分割已明顯不足，原本連接兩側的頭髮橋樑變得更窄且更薄，前額與頂部的禿髮逐漸擴大。
 
-![](https://i2.wp.com/cdn-images-1.medium.com/max/600/1*hkQttT-4r13i7dXCCdPZ5Q.jpeg?w=700&ssl=1 =600x400)
+!\[\](https://i2.wp.com/cdn-images-1.medium.com/max/600/1*hkQttT-4r13i7dXCCdPZ5Q.jpeg?w=700&ssl=1 =600x400)
 
 ***
 
@@ -82,7 +84,7 @@ slug: what-stage-of-baldness
 
 原本分隔前額與頂部禿髮的區域已經消失，剩下少數稀疏的頭髮，兩個區域的禿髮範圍逐漸擴大甚至合併。
 
-![](https://i0.wp.com/cdn-images-1.medium.com/max/600/1*OZQJGzb5OK3rg66_xt8VgA.jpeg?w=700&ssl=1 =600x400)
+!\[\](https://i0.wp.com/cdn-images-1.medium.com/max/600/1*OZQJGzb5OK3rg66_xt8VgA.jpeg?w=700&ssl=1 =600x400)
 
 ***
 
@@ -96,7 +98,7 @@ slug: what-stage-of-baldness
 
 這是脫髮最嚴重的情況，前額與頂部的頭髮幾乎消失，只剩下頭皮兩側與後方有頭髮生長，約呈現馬蹄或半圓形，髮量密度變得更小，也略為稀疏。
 
-![](https://i2.wp.com/cdn-images-1.medium.com/max/800/1*iykdy8N5TUAtt8uT8R7-iA.jpeg?w=700&ssl=1 =600x400)
+!\[\](https://i2.wp.com/cdn-images-1.medium.com/max/800/1*iykdy8N5TUAtt8uT8R7-iA.jpeg?w=700&ssl=1 =600x400)
 
 ***
 
@@ -112,9 +114,9 @@ slug: what-stage-of-baldness
 
 女生的雄性禿表現跟男生不太一樣，掉落的範圍多在**頂部及髮漩**的位置，**很少會影響到髮際線**，而且也**不太會全部掉光**，而是看起來**稀疏單薄**，頭皮變得明顯，如果很嚴重的病人，也會影響到後枕部。通常第一個注意到的表徵就是**分髮線變寬變明顯**。所以女性雄性禿的分期就簡單多啦！基本上就是分髮線越寬，看到的頭皮越多，那就是越嚴重，分期的數字就越大囉。
 
-![](https://i1.wp.com/cdn-images-1.medium.com/max/600/1*phvezSJF1zd6O3Rx_femAg.jpeg?w=700&ssl=1 =600x400)
+!\[\](https://i1.wp.com/cdn-images-1.medium.com/max/600/1*phvezSJF1zd6O3Rx_femAg.jpeg?w=700&ssl=1 =600x400)
 
-![](https://i2.wp.com/cdn-images-1.medium.com/max/600/1*JQQDSJI_H_vUxpecVeyK3Q.jpeg?w=700&ssl=1 =600x400)
+!\[\](https://i2.wp.com/cdn-images-1.medium.com/max/600/1*JQQDSJI_H_vUxpecVeyK3Q.jpeg?w=700&ssl=1 =600x400)
 
 ***
 
