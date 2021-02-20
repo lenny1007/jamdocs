@@ -6,9 +6,9 @@ slug: what-stage-of-baldness
 ---
 ## Baldness Stages
 
-![雄性禿的七個階段](/7-stages-of-male-pattern-balding.jpg "雄性禿的七個階段")
+![](/7-stages-of-male-pattern-balding-1.jpg)
 
-雄性禿是一種過程，常用來判斷雄性禿階段的是[Hamilton–Norwood scale](https://en.wikipedia.org/wiki/Hamilton%E2%80%93Norwood_scale)，一般說雄性禿第幾期，所使用的就是這個模型。
+雄性禿是一種過程，常用來判斷雄性禿階段的是 [Hamilton–Norwood scale](https://en.wikipedia.org/wiki/Hamilton%E2%80%93Norwood_scale)，一般說雄性禿第幾期，所使用的就是這個模型。
 
 ***
 
@@ -28,9 +28,7 @@ slug: what-stage-of-baldness
 
 髮量仍舊十分茂盛，只有前額兩側髮線輕微或不明顯的衰退，無需治療。若有禿頭的家族史，則需特別注意掉髮的情況，並在適當的時機接受治療。
 
-[1*kFe7bkgjDSpudFLZnCu9zA.jpeg?w=700&ssl=1](https://i2.wp.com/cdn-images-1.medium.com/max/600/1*kFe7bkgjDSpudFLZnCu9zA.jpeg?w=700&ssl=1 "1*kFe7bkgjDSpudFLZnCu9zA.jpeg?w=700&ssl=1")
-
-!\[側邊額角的地方輕微後退\](https://i2.wp.com/cdn-images-1.medium.com/max/600/1*kFe7bkgjDSpudFLZnCu9zA.jpeg?w=700&ssl=1 "髮際線基本完整" =600x400)
+![側邊額角的地方輕微後退，髮際線基本完整](/stage1.jpg "雄性禿第一期")
 
 ***
 
