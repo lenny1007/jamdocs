@@ -16,8 +16,8 @@ function addStyleResource (rule) {
 }
 
 module.exports = {
-  siteName: 'Jamdocs',
-  siteUrl: 'https://jamdocs.samuelhorn.com',
+  siteName: 'HairMore生髮資訊站',
+  siteUrl: 'https://hairmore.info/',
   templates: {
     Doc: '/:slug',
   },

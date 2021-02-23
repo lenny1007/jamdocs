@@ -1,7 +1,8 @@
 <template>
   <Layout :sidebar="false">
     <div class="content">
-      <h1>{{ $static.metadata.siteName }} - {{ this.description }}</h1>
+      <h1>{{ $static.metadata.siteName }}</h1>
+      <h2> {{ this.description }}</h2>
       <nav>
         <!-- To use other icons here, you need to import them in the Shortcut component -->
         <Shortcut link="/gene-make-you-bold" text="為什麼掉頭髮 ?" icon="play-icon" />
