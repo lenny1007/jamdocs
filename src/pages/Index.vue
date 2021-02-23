@@ -65,7 +65,7 @@ h1 {
 
 h2 {
   text-align: center;
-  margin: 0 auto 0.5em;
+  margin: 0 auto 1.5em;
 }
 
 nav {
