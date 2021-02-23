@@ -5,8 +5,8 @@
       <nav>
         <!-- To use other icons here, you need to import them in the Shortcut component -->
         <Shortcut link="/gene-make-you-bold" text="為什麼掉頭髮 ?" icon="play-icon" />
-        <Shortcut link="/theme-configuration" text="Configuration" icon="sliders-icon" />
-        <Shortcut link="/theme-configuration#changing-colors" text="Change colors" icon="eye-icon" />
+        <Shortcut link="/theme-configuration" text="洗髮精的選擇" icon="sliders-icon" />
+        <Shortcut link="/theme-configuration#changing-colors" text="有效的生髮產品" icon="eye-icon" />
       </nav>
        <!-- <GitLink class="git" size="large" /> -->
     </div>
@@ -32,14 +32,14 @@ export default {
   },
   data() {
     return {
-      description: 'The ultimate static generated documentation theme for the JAM-stack'
+      description: '生髮資訊站 - 讓您在抗禿長頭髮路上不花冤枉錢 ! '
     }
   },
   metaInfo() {
     return {
       title: this.description,
       meta: [
-        { key: 'description', name: 'description', content: 'A theme for static site documentation based on Gridsome, ready to deploy to Netlify in one click.' }
+        { key: 'description', name: 'description', content: '讓您在抗禿長頭髮路上不花冤枉錢 !' }
       ]
     }
   }
