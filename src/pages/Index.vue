@@ -32,7 +32,7 @@ export default {
   },
   data() {
     return {
-      description: '生髮資訊站 - 讓您在抗禿長頭髮路上不花冤枉錢 ! '
+      description: ' 讓您在抗禿長頭髮路上不花冤枉錢 ! '
     }
   },
   metaInfo() {
