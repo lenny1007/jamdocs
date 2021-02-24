@@ -26,12 +26,12 @@
       "section": "有效的生髮產品",
       "topics": [
         {
-          "title": "落建與好市多生髮產品",
-          "slug": "rogaine-kirkland"
-        },
-        {
           "title": "生髮水與生髮慕斯",
           "slug": "minoxidil-solution-foam"
+        },
+        {
+          "title": "落建與好市多生髮產品",
+          "slug": "rogaine-kirkland"
         }
       ]
     }
