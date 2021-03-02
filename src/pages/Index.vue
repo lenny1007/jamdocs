@@ -6,14 +6,13 @@
       <nav>
         <!-- To use other icons here, you need to import them in the Shortcut component -->
         <Shortcut link="/gene-make-you-bold" text="為什麼掉頭髮 ?" icon="trending-down-icon" />
-        <Shortcut link="/choose-shampoo" text="洗髮精的選擇" icon="check-circle-icon" />
         <Shortcut link="/minoxidil-solution-foam" text="有效的生髮產品" icon="award-icon" />
         <Shortcut link="/minoxidil-personal-experience" text="經驗分享" icon="user-icon" />
       </nav>
       <p></p>
       <nav>
       <Shortcut link="/drug-for-hairloss" text="口服藥物" icon="help-circle-icon" />
-
+      <Shortcut link="/choose-shampoo" text="洗髮精的選擇" icon="check-circle-icon" />
       </nav>
        <!-- <GitLink class="git" size="large" /> -->
     </div>
