@@ -13,9 +13,7 @@
       <p></p>
       <nav>
       <Shortcut link="/drug-for-hairloss" text="口服藥物" icon="help-circle-icon" />
-      <Shortcut link="/drug-for-hairloss" text="口服藥物" icon="help-circle-icon" />
-      <Shortcut link="/drug-for-hairloss" text="口服藥物" icon="help-circle-icon" />
-      <Shortcut link="/drug-for-hairloss" text="口服藥物" icon="help-circle-icon" />
+
       </nav>
        <!-- <GitLink class="git" size="large" /> -->
     </div>
