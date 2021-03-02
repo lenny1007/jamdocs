@@ -10,13 +10,14 @@
 </template>
 
 <script>
-import { PlayIcon, SlidersIcon, EyeIcon } from 'vue-feather-icons'
+import { PlayIcon, SlidersIcon, EyeIcon, TrendingDownIcon } from 'vue-feather-icons'
 
 export default {
   components: {
     PlayIcon,
     SlidersIcon,
-    EyeIcon
+    EyeIcon,
+    TrendingDownIcon
   },
   props: {
     link: {

@@ -5,7 +5,7 @@
       <h2> {{ this.description }}</h2>
       <nav>
         <!-- To use other icons here, you need to import them in the Shortcut component -->
-        <Shortcut link="/gene-make-you-bold" text="為什麼掉頭髮 ?" icon="play-icon" />
+        <Shortcut link="/gene-make-you-bold" text="為什麼掉頭髮 ?" icon="trending-down-icon" />
         <Shortcut link="/choose-shampoo" text="洗髮精的選擇" icon="sliders-icon" />
         <Shortcut link="/minoxidil-solution-foam" text="有效的生髮產品" icon="eye-icon" />
       </nav>
