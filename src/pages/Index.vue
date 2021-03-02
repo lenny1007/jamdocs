@@ -10,7 +10,11 @@
         <Shortcut link="/minoxidil-solution-foam" text="有效的生髮產品" icon="award-icon" />
         <Shortcut link="/minoxidil-personal-experience" text="經驗分享" icon="user-icon" />
       </nav>
+      <p></p>
       <nav>
+      <Shortcut link="/drug-for-hairloss" text="口服藥物" icon="help-circle-icon" />
+      <Shortcut link="/drug-for-hairloss" text="口服藥物" icon="help-circle-icon" />
+      <Shortcut link="/drug-for-hairloss" text="口服藥物" icon="help-circle-icon" />
       <Shortcut link="/drug-for-hairloss" text="口服藥物" icon="help-circle-icon" />
       </nav>
        <!-- <GitLink class="git" size="large" /> -->
