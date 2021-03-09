@@ -2,12 +2,12 @@
   <g-link to="/" class="logo" title="Back to home">
     <transition name="theme">
       <div v-if="color == 'dark'">
-        <g-image src="~/assets/img/logo-bright.svg" alt="logo" background-color=$backgroundDark; />
+        <g-image src="~/assets/img/logo-bright.svg" alt="logo"  style="background-color= #18191a;" />
       </div>
     </transition>
     <transition name="theme">
       <div v-if="color == 'bright'">
-        <g-image src="~/assets/img/logo-dark.svg" alt="logo" background-color=$backgroundBright;/>
+        <g-image src="~/assets/img/logo-dark.svg" alt="logo" style="background-color= #fff;"/>
       </div>
     </transition>
   </g-link>
