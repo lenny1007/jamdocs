@@ -32,6 +32,7 @@ export default {
   color: $textBright;
   position: relative;
   perspective: 200px;
+  background: red; 
 
   div {
     height: 40px;
