@@ -32,7 +32,7 @@ export default {
   color: $textBright;
   position: relative;
   perspective: 200px;
-  background-color:red;
+  
   div {
     height: 40px;
     position: absolute;
@@ -43,6 +43,7 @@ export default {
   img {
     height: 100%;
     width: auto;
+    background-color:red;
   }
 }
 
