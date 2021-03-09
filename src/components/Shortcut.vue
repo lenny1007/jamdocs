@@ -10,7 +10,7 @@
 </template>
 
 <script>
-import { PlayIcon, SlidersIcon, EyeIcon, TrendingDownIcon, CheckCircleIcon, AwardIcon, UserIcon, HelpCircleIcon } from 'vue-feather-icons'
+import { PlayIcon, SlidersIcon, EyeIcon, TrendingDownIcon, CheckCircleIcon, AwardIcon, UserIcon, HelpCircleIcon, DollarSignIcon } from 'vue-feather-icons'
 
 export default {
   components: {
@@ -21,7 +21,8 @@ export default {
     CheckCircleIcon,
     AwardIcon,
     UserIcon,
-    HelpCircleIcon
+    HelpCircleIcon,
+    DollarSignIcon
 
   },
   props: {

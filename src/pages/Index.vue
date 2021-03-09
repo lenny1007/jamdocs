@@ -13,6 +13,8 @@
       <nav>
       <Shortcut link="/drug-for-hairloss" text="口服藥物" icon="help-circle-icon" />
       <Shortcut link="/choose-shampoo" text="洗髮精的選擇" icon="check-circle-icon" />
+      <Shortcut link="/about-wig" text="假髮、植髮" icon="dollar-sign-icon" />
+
       </nav>
        <!-- <GitLink class="git" size="large" /> -->
     </div>
