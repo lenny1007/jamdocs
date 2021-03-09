@@ -43,7 +43,7 @@ export default {
   img {
     height: 100%;
     width: auto;
-    background-color:red;
+    background-color:$textBright;
   }
 }
 
