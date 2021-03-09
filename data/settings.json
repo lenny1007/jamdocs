@@ -1,15 +1,6 @@
 {
   "sidebar": [
     {
-      "section": "其他",
-      "topics": [
-        {
-          "title": "科技假髮",
-          "slug": "about-wig"
-        }
-      ]
-    },
-    {
       "section": "為什麼掉頭髮 ?",
       "topics": [
         {
@@ -49,6 +40,15 @@
         {
           "title": "柔沛與適尿通",
           "slug": "drug-for-hairloss"
+        }
+      ]
+    },
+    {
+      "section": "其他",
+      "topics": [
+        {
+          "title": "科技假髮",
+          "slug": "about-wig"
         }
       ]
     }
