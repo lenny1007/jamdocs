@@ -16,8 +16,9 @@
       <Shortcut link="/about-wig" text="假髮、植髮" icon="dollar-sign-icon" />
       </nav>
 
+      <div class = "line-link">
       <h4>加入好友，救頭髮救錢包。</h4> <a href="https://lin.ee/mLkGDK7"><img src="https://scdn.line-apps.com/n/line_add_friends/btn/zh-Hant.png" alt="加入好友" height="36" border="0"></a>
-      
+      </div>
        <!-- <GitLink class="git" size="large" /> -->
     </div>
   </Layout>
@@ -73,6 +74,11 @@ h1 {
 }
 
 h2 {
+  text-align: center;
+  margin: 0 auto 1.5em;
+}
+
+.line-link {
   text-align: center;
   margin: 0 auto 1.5em;
 }
