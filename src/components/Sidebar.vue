@@ -17,6 +17,9 @@
           </li>
         </ul>
         <!-- <GitLink class="git" /> -->
+        <a href="https://lin.ee/mLkGDK7"><img src="https://scdn.line-apps.com/n/line_add_friends/btn/zh-Hant.png" alt="加入好友" height="36" border="0"></a>
+        <h4>加入好友，救頭髮救錢包。</h4> 
+        
       </nav>
     </aside>
 </template>
