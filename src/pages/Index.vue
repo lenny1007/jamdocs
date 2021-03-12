@@ -14,8 +14,10 @@
       <Shortcut link="/drug-for-hairloss" text="口服藥物" icon="help-circle-icon" />
       <Shortcut link="/choose-shampoo" text="洗髮精的選擇" icon="check-circle-icon" />
       <Shortcut link="/about-wig" text="假髮、植髮" icon="dollar-sign-icon" />
-
       </nav>
+
+      <h4>加入好友，救頭髮救錢包。</h4> <a href="https://lin.ee/mLkGDK7"><img src="https://scdn.line-apps.com/n/line_add_friends/btn/zh-Hant.png" alt="加入好友" height="36" border="0"></a>
+      
        <!-- <GitLink class="git" size="large" /> -->
     </div>
   </Layout>
